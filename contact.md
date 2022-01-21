@@ -4,13 +4,14 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Cabinet médical Le Lynx
+1 rue des Frères Lumières
+84110 Vaison la Romaine
 
-| Day       | Opening Hours   |
+| Jour       | Heures de consultation |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Lundi   | 8:00 - 20:00 |
+| Mardi | 8:00 - 20:00 |
+| Mercredi  | 8:00 - 20:00 |
+| Jeudi    | 8:00 - 20:00 |
+| Vendredi  | 8:00 - 20:00  |
